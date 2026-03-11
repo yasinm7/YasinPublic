@@ -57,4 +57,56 @@ left join customers c --left join to NULL non matching values to cleanse
 on a.CustomerID = c.CustomerID
 left join products p 
 on a.ProductID = p.ProductID
+
 where a.CustomerID is not NULL --Dropping non customers ids
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
