@@ -1,0 +1,165 @@
+order_id,clean_customer_name,clean_email,clean_order_status,clean_product_name,clean_quantity,clean_order_date,clean_price,clean_product_category,clean_payment_method,clean_country,cogs,discount_percent,rn,total_cogs,revenue,profit
+2098,Evelyn White,,Refunded,APPLE WATCH,2,2023-09-27,483,Wearables,Bank Transfer,India,381.5,2,1,763.0,946.68,183.68
+2081,Isabella Johnson,,Delivered,DELL XPS 13,2,2023-09-12,1671,Computers,Apple Pay,Germany,887.72,0,1,1775.44,3342.0,1566.56
+2020,Amelia Rodriguez,,Returned,IPAD AIR,1,2023-08-15,107,Tablets,Crypto,India,84.74,5,1,84.74,101.65,16.91
+2134,Noah Brown,,Returned,IPHONE 14,1,2023-11-25,1066,Electronics,Crypto,Germany,754.29,24,1,754.29,810.16,55.87
+2164,Olivia Thomas,,Delivered,LENOVO THINKPAD X1,2,2023-12-27,,Computers,Bank Transfer,United States,637.52,8,1,1275.04,,
+2014,Maria Johnson,,Delivered,SAMSUNG GALAXY S22,2,2023-01-31,440,Electronics,Apple Pay,Us,328.18,28,1,656.36,633.6,-22.76
+2091,Amelia Garcia,amelia.garcia@example.com,Returned,APPLE WATCH,2,2023-02-21,493,Wearables,Cash,India,212.42,27,1,424.84,719.78,294.94
+2077,Amelia Jackson,amelia.jackson@example.com,Pending,APPLE WATCH,3,2023-10-15,335,Wearables,Bank Transfer,Spain,242.17,27,1,726.51,733.65,7.14
+2092,Amelia Johnson,amelia.johnson@example.com,Shipped,LENOVO THINKPAD X1,2,2023-08-13,470,Computers,Apple Pay,Usa,340.1,5,1,680.2,893.0,212.8
+2074,Amelia Martin,amelia.martin@example.com,Refunded,SAMSUNG GALAXY S22,1,2023-04-27,1897,Electronics,Paypal,Canada,921.96,14,1,921.96,1631.42,709.46
+2031,Amelia Robinson,amelia.robinson@example.com,Delivered,GOOGLE PIXEL 8,2,2023-05-03,1820,Electronics,Apple Pay,United Kingdom,1107.51,20,1,2215.02,2912.0,696.98
+2125,Amelia White,amelia.white@example.com,Delivered,GOOGLE PIXEL 8,2,2023-09-01,110,Electronics,Crypto,India,50.95,20,1,101.9,176.0,74.1
+2015,Ava Clark,ava.clark@example.com,Shipped,BOSE QC45,2,2023-10-05,417,Audio,Crypto,Usa,176.56,23,1,353.12,642.18,289.06
+2095,Ava Clark,ava.clark@example.com,Delivered,DELL XPS 13,3,2023-02-11,154,Computers,Debit Card,Canada,84.64,12,1,253.92,406.56,152.64
+2065,Ava Rodriguez,ava.rodriguez@example.com,Delivered,SAMSUNG GALAXY S22,1,2023-07-23,388,Electronics,Paypal,India,260.17,21,1,260.17,306.52,46.35
+2117,Ava Taylor,ava.taylor@example.com,Pending,APPLE WATCH,3,2023-01-24,1646,Wearables,Debit Card,Usa,922.67,1,1,2768.01,4888.62,2120.61
+2161,Ava White,ava.white@example.com,Delivered,LENOVO THINKPAD X1,3,2023-06-26,901,Computers,Apple Pay,Usa,609.23,4,1,1827.69,2594.88,767.19
+2177,Carlos Anderson,carlos.anderson@example.com,Delivered,IPHONE 14,1,2023-02-15,1861,Electronics,Cash,Germany,797.12,12,1,797.12,1637.68,840.56
+2174,Carlos Clark,carlos.clark@example.com,Returned,BOSE QC45,2,2023-10-08,1789,Audio,Debit Card,Spain,1308.36,10,1,2616.72,3220.2,603.48
+2067,Carlos Clark,carlos.clark@example.com,Shipped,MACBOOK PRO,1,2023-03-11,723,Computers,Apple Pay,Canada,357.1,17,1,357.1,600.09,242.99
+2132,Carlos Clark,carlos.clark@example.com,Pending,SAMSUNG GALAXY S22,3,2023-09-24,1949,Electronics,Credit Card,India,896.42,10,1,2689.26,5262.3,2573.04
+2124,Carlos Garcia,carlos.garcia@example.com,Delivered,DELL XPS 13,3,2023-10-28,655,Computers,Debit Card,Uk,297.97,19,1,893.91,1591.65,697.74
+2176,Carlos Garcia,carlos.garcia@example.com,Delivered,MACBOOK PRO,1,2023-12-27,725,Computers,Credit Card,United States,414.48,2,1,414.48,710.5,296.02
+2058,Carlos Rodriguez,carlos.rodriguez@example.com,Returned,IPAD AIR,3,2023-09-07,1845,Tablets,Credit Card,India,1442.16,20,1,4326.48,4428.0,101.52
+2088,Carlos Thomas,carlos.thomas@example.com,Refunded,BOSE QC45,2,2023-12-14,845,Audio,Credit Card,Spain,476.16,10,1,952.32,1521.0,568.68
+2107,Carlos Thompson,carlos.thompson@example.com,Delivered,SONY WH-1000XM5,2,2023-09-18,1557,Audio,Credit Card,Uk,731.22,11,1,1462.44,2771.46,1309.02
+2113,Daniel Anderson,daniel.anderson@example.com,Delivered,APPLE WATCH,2,2023-03-04,1657,Wearables,Apple Pay,United Kingdom,874.31,14,1,1748.62,2850.04,1101.42
+2017,Daniel Brown,daniel.brown@example.com,Delivered,SONY WH-1000XM5,1,2023-08-23,743,Audio,Cash,Canada,496.83,9,1,496.83,676.13,179.3
+2157,Daniel Jackson,daniel.jackson@example.com,Delivered,APPLE WATCH,1,2023-05-24,1396,Wearables,Paypal,Canada,693.77,12,1,693.77,1228.48,534.71
+2049,Daniel Martin,daniel.martin@example.com,Delivered,IPAD AIR,3,2023-06-15,1205,Tablets,Paypal,Spain,501.21,13,1,1503.63,3145.05,1641.42
+2152,Daniel Martinez,daniel.martinez@example.com,Returned,GOOGLE PIXEL 8,3,2023-07-14,1232,Electronics,Cash,United States,827.75,21,1,2483.25,2919.84,436.59
+2087,Daniel Martinez,daniel.martinez@example.com,Refunded,IPHONE 14,3,2023-02-01,1434,Electronics,Credit Card,India,861.18,30,1,2583.54,3011.4,427.86
+2063,Daniel Rodriguez,daniel.rodriguez@example.com,Delivered,DELL XPS 13,3,2023-12-04,548,Computers,Cash,Spain,367.77,23,1,1103.31,1265.88,162.57
+2004,Daniel Thomas,daniel.thomas@example.com,Delivered,SONY WH-1000XM5,1,2023-01-29,1509,Audio,Cash,Uk,1112.35,24,1,1112.35,1146.84,34.49
+2009,Daniel Thompson,daniel.thompson@example.com,Delivered,SONY WH-1000XM5,2,2023-02-05,1898,Audio,Cash,India,1314.86,26,1,2629.72,2809.04,179.32
+2034,Daniel White,daniel.white@example.com,Returned,IPAD AIR,1,2023-11-15,1734,Tablets,Credit Card,India,1017.78,4,1,1017.78,1664.64,646.86
+2070,Emma Anderson,emma.anderson@example.com,Refunded,BOSE QC45,2,2023-11-02,1765,Audio,Paypal,Usa,810.17,28,1,1620.34,2541.6,921.26
+2153,Emma Brown,emma.brown@example.com,Delivered,MACBOOK PRO,3,2023-05-19,,Computers,Debit Card,United States,438.53,11,1,1315.59,,
+2093,Emma Clark,emma.clark@example.com,Refunded,DELL XPS 13,3,2023-10-20,1756,Computers,Apple Pay,India,838.68,21,1,2516.04,4161.72,1645.68
+2023,Emma Harris,emma.harris@example.com,Pending,IPHONE 14,2,2023-04-27,508,Electronics,Credit Card,Uk,265.21,25,1,530.42,762.0,231.58
+2059,Emma Martin,emma.martin@example.com,Delivered,SAMSUNG GALAXY S22,1,2023-01-24,1887,Electronics,Cash,Canada,980.84,0,1,980.84,1887.0,906.16
+2108,Emma Rodriguez,emma.rodriguez@example.com,Returned,BOSE QC45,1,2023-07-30,234,Audio,Cash,Canada,160.89,16,1,160.89,196.56,35.67
+2042,Emma Rodriguez,emma.rodriguez@example.com,Pending,SAMSUNG GALAXY S22,2,2023-09-29,1516,Electronics,Apple Pay,Canada,830.17,17,1,1660.34,2516.56,856.22
+2050,Emma Smith,emma.smith@example.com,Returned,IPHONE 14,2,2023-08-12,1063,Electronics,Cash,Spain,543.47,18,1,1086.94,1743.32,656.38
+2162,Ethan Brown,ethan.brown@example.com,Shipped,SONY WH-1000XM5,2,2023-08-20,1167,Audio,Credit Card,Canada,671.34,22,1,1342.68,1820.52,477.84
+2154,Ethan Clark,ethan.clark@example.com,Delivered,SAMSUNG GALAXY S22,1,2023-07-31,1322,Electronics,Cash,Canada,732.51,9,1,732.51,1203.02,470.51
+2172,Ethan Johnson,ethan.johnson@example.com,Shipped,MACBOOK PRO,1,2023-03-14,759,Computers,Crypto,Spain,508.9,15,1,508.9,645.15,136.25
+2144,Ethan Martin,ethan.martin@example.com,Returned,DELL XPS 13,1,2023-11-25,1502,Computers,Apple Pay,Germany,894.36,23,1,894.36,1156.54,262.18
+2033,Ethan Martinez,ethan.martinez@example.com,Pending,LENOVO THINKPAD X1,1,2023-08-03,820,Computers,Crypto,India,620.46,26,1,620.46,606.8,-13.66
+2102,Ethan Martinez,ethan.martinez@example.com,Returned,MACBOOK PRO,2,2023-08-06,852,Computers,Apple Pay,United States,613.83,23,1,1227.66,1312.08,84.42
+2173,Ethan Martinez,ethan.martinez@example.com,Refunded,SAMSUNG GALAXY S22,1,2023-06-17,669,Electronics,Credit Card,Spain,389.28,15,1,389.28,568.65,179.37
+2139,Ethan Rodriguez,ethan.rodriguez@example.com,Refunded,IPAD AIR,3,2023-10-03,1526,Tablets,Debit Card,India,840.19,24,1,2520.57,3479.28,958.71
+2112,Ethan Smith,ethan.smith@example.com,Delivered,SONY WH-1000XM5,1,2023-08-01,931,Audio,Apple Pay,India,394.71,14,1,394.71,800.66,405.95
+2030,Ethan White,ethan.white@example.com,Returned,IPHONE 14,1,2023-11-01,1034,Electronics,Cash,Canada,633.28,17,1,633.28,858.22,224.94
+2105,Evelyn Johnson,evelyn.johnson@example.com,Pending,APPLE WATCH,1,2023-05-08,1275,Wearables,Credit Card,United States,670.34,8,1,670.34,1173.0,502.66
+2044,Evelyn Martin,evelyn.martin@example.com,Pending,APPLE WATCH,1,2023-05-30,1550,Wearables,Debit Card,Germany,1224.06,17,1,1224.06,1286.5,62.44
+2151,Evelyn Martinez,evelyn.martinez@example.com,Delivered,MACBOOK PRO,1,2023-08-12,1583,Computers,Cash,Uk,852.2,3,1,852.2,1535.51,683.31
+2006,Evelyn Robinson,evelyn.robinson@example.com,Delivered,MACBOOK PRO,1,2023-12-15,1647,Computers,Bank Transfer,Canada,1072.16,25,1,1072.16,1235.25,163.09
+2133,Evelyn Rodriguez,evelyn.rodriguez@example.com,Refunded,GOOGLE PIXEL 8,2,2023-01-12,1035,Electronics,Paypal,Canada,692.53,9,1,1385.06,1883.7,498.64
+2035,Evelyn Smith,evelyn.smith@example.com,Refunded,MACBOOK PRO,2,2023-05-23,770,Computers,Paypal,Canada,542.46,12,1,1084.92,1355.2,270.28
+2138,Evelyn Thompson,evelyn.thompson@example.com,Pending,DELL XPS 13,2,2023-10-30,1452,Computers,Debit Card,Germany,740.61,17,1,1481.22,2410.32,929.1
+2160,Harper Brown,harper.brown@example.com,Delivered,MACBOOK PRO,1,2023-06-19,1253,Computers,Credit Card,Canada,701.49,24,1,701.49,952.28,250.79
+2122,Harper Garcia,harper.garcia@example.com,Pending,SONY WH-1000XM5,2,2023-05-28,604,Audio,Debit Card,Germany,469.06,9,1,938.12,1099.28,161.16
+2019,Harper Martin,harper.martin@example.com,Pending,SONY WH-1000XM5,1,2023-06-25,1620,Audio,Crypto,Uk,1039.93,22,1,1039.93,1263.6,223.67
+2001,Harper Robinson,harper.robinson@example.com,Returned,IPHONE 14,2,2023-06-22,1529,Electronics,Credit Card,United States,743.29,24,1,1486.58,2324.08,837.5
+2068,Harper Robinson,harper.robinson@example.com,Refunded,SAMSUNG GALAXY S22,3,2023-08-16,935,Electronics,Debit Card,India,632.16,6,1,1896.48,2636.7,740.22
+2099,Harper Smith,harper.smith@example.com,Refunded,APPLE WATCH,1,2023-02-23,831,Wearables,Crypto,Spain,576.03,20,1,576.03,664.8,88.77
+2078,Harper Smith,harper.smith@example.com,Returned,IPHONE 14,1,2023-03-15,1661,Electronics,Crypto,Spain,668.46,27,1,668.46,1212.53,544.07
+2169,Harper Taylor,harper.taylor@example.com,Refunded,APPLE WATCH,1,2023-12-01,1656,Wearables,Paypal,Uk,1318.03,3,1,1318.03,1606.32,288.29
+2155,Harper White,harper.white@example.com,Shipped,MACBOOK PRO,3,2023-09-05,1109,Computers,Paypal,United States,566.02,9,1,1698.06,3027.57,1329.51
+2140,Isabella Anderson,isabella.anderson@example.com,Returned,IPAD AIR,2,2023-08-19,895,Tablets,Credit Card,Canada,589.52,29,1,1179.04,1270.9,91.86
+2166,Isabella Brown,isabella.brown@example.com,Pending,SAMSUNG GALAXY S22,1,2023-08-05,389,Electronics,Apple Pay,Us,177.05,12,1,177.05,342.32,165.27
+2048,Isabella Clark,isabella.clark@example.com,Delivered,LENOVO THINKPAD X1,2,2023-03-14,970,Computers,Credit Card,United States,445.81,8,1,891.62,1784.8,893.18
+2115,Isabella Rodriguez,isabella.rodriguez@example.com,Returned,DELL XPS 13,3,2023-12-11,199,Computers,Paypal,India,149.83,20,1,449.49,477.6,28.11
+2119,Isabella Rodriguez,isabella.rodriguez@example.com,Delivered,IPAD AIR,1,2023-12-02,,Tablets,Bank Transfer,Spain,1112.43,30,1,1112.43,,
+2159,Isabella White,isabella.white@example.com,Delivered,IPAD AIR,3,2023-12-21,1081,Tablets,Bank Transfer,Canada,831.72,27,1,2495.16,2367.39,-127.77
+2032,Isabella White,isabella.white@example.com,Delivered,MACBOOK PRO,2,2023-10-05,1521,Computers,Apple Pay,India,860.81,10,1,1721.62,2737.8,1016.18
+2028,James Clark,james.clark@example.com,Delivered,MACBOOK PRO,3,2023-05-01,1155,Computers,Paypal,Spain,505.14,30,1,1515.42,2425.5,910.08
+2170,James Harris,james.harris@example.com,Delivered,SAMSUNG GALAXY S22,2,2023-11-09,529,Electronics,Apple Pay,Spain,285.79,22,1,571.58,825.24,253.66
+2136,James Robinson,james.robinson@example.com,Delivered,APPLE WATCH,2,2023-11-11,1892,Wearables,Debit Card,Usa,1369.41,13,1,2738.82,3292.08,553.26
+2018,James Taylor,james.taylor@example.com,Delivered,APPLE WATCH,2,2023-11-10,856,Wearables,Bank Transfer,Spain,528.4,9,1,1056.8,1557.92,501.12
+2054,James Taylor,james.taylor@example.com,Returned,SONY WH-1000XM5,3,2023-03-16,950,Audio,Debit Card,Canada,472.62,17,1,1417.86,2365.5,947.64
+2147,John Harris,john.harris@example.com,Shipped,IPAD AIR,2,2023-09-27,319,Tablets,Cash,United Kingdom,158.35,19,1,316.7,516.78,200.08
+2008,John Harris,john.harris@example.com,Returned,SAMSUNG GALAXY S22,3,2023-03-24,1823,Electronics,Cash,India,840.65,24,1,2521.95,4156.44,1634.49
+2066,John Harris,john.harris@example.com,Delivered,SONY WH-1000XM5,1,2023-10-15,860,Audio,Bank Transfer,Canada,352.61,28,1,352.61,619.2,266.59
+2021,John Taylor,john.taylor@example.com,Pending,BOSE QC45,3,2023-01-21,1292,Audio,Debit Card,Canada,538.42,11,1,1615.26,3449.64,1834.38
+2149,John Thomas,john.thomas@example.com,Shipped,APPLE WATCH,1,2023-12-21,,Wearables,Apple Pay,Spain,936.18,27,1,936.18,,
+2055,Liam Brown,liam.brown@example.com,Returned,BOSE QC45,1,2023-09-08,679,Audio,Apple Pay,Us,429.11,21,1,429.11,536.41,107.3
+2071,Liam Harris,liam.harris@example.com,Pending,MACBOOK PRO,2,2023-08-04,1305,Computers,Credit Card,India,549.35,23,1,1098.7,2009.7,911.0
+2171,Liam Jackson,liam.jackson@example.com,Delivered,BOSE QC45,3,2023-09-21,444,Audio,Cash,Spain,228.99,8,1,686.97,1225.44,538.47
+2100,Liam Johnson,liam.johnson@example.com,Delivered,GOOGLE PIXEL 8,2,2023-08-23,1393,Electronics,Paypal,Usa,956.18,30,1,1912.36,1950.2,37.84
+2076,Liam Johnson,liam.johnson@example.com,Delivered,SAMSUNG GALAXY S22,1,2023-11-04,1636,Electronics,Paypal,United Kingdom,688.07,9,1,688.07,1488.76,800.69
+2046,Liam Martin,liam.martin@example.com,Returned,IPAD AIR,3,2023-10-29,562,Tablets,Paypal,Canada,429.03,9,1,1287.09,1534.26,247.17
+2179,Liam Robinson,liam.robinson@example.com,Pending,SAMSUNG GALAXY S22,1,2023-03-13,1307,Electronics,Paypal,Uk,747.28,25,1,747.28,980.25,232.97
+2079,Liam Smith,liam.smith@example.com,Refunded,GOOGLE PIXEL 8,3,2023-01-27,738,Electronics,Debit Card,Us,462.75,2,1,1388.25,2169.72,781.47
+2029,Liam Smith,liam.smith@example.com,Delivered,SAMSUNG GALAXY S22,1,2023-03-17,1278,Electronics,Crypto,Spain,763.93,7,1,763.93,1188.54,424.61
+2109,Liam Thompson,liam.thompson@example.com,Delivered,APPLE WATCH,3,2023-01-29,1410,Wearables,Bank Transfer,United States,636.77,16,1,1910.31,3553.2,1642.89
+2039,Lucas Brown,lucas.brown@example.com,Returned,GOOGLE PIXEL 8,3,2023-09-25,1401,Electronics,Paypal,Spain,646.14,5,1,1938.42,3992.85,2054.43
+2002,Lucas Garcia,lucas.garcia@example.com,Pending,BOSE QC45,2,2023-07-05,261,Audio,Debit Card,Spain,168.97,27,1,337.94,381.06,43.12
+2060,Lucas Garcia,lucas.garcia@example.com,Returned,MACBOOK PRO,1,2023-10-26,1348,Computers,Debit Card,Us,669.06,29,1,669.06,957.08,288.02
+2145,Lucas Thomas,lucas.thomas@example.com,Delivered,BOSE QC45,1,2023-01-25,1173,Audio,Apple Pay,Usa,912.68,21,1,912.68,926.67,13.99
+2056,Lucas Thompson,lucas.thompson@example.com,Pending,APPLE WATCH,1,2023-06-12,589,Wearables,Apple Pay,Germany,418.32,1,1,418.32,583.11,164.79
+2131,Lucas White,lucas.white@example.com,Refunded,LENOVO THINKPAD X1,1,2023-04-22,1224,Computers,Crypto,Uk,882.26,26,1,882.26,905.76,23.5
+2069,Maria Garcia,maria.garcia@example.com,Refunded,IPAD AIR,1,2023-11-02,1836,Tablets,Credit Card,Usa,890.17,20,1,890.17,1468.8,578.63
+2022,Maria Garcia,maria.garcia@example.com,Shipped,LENOVO THINKPAD X1,2,2023-01-13,1870,Computers,Crypto,Us,880.44,13,1,1760.88,3253.8,1492.92
+2037,Maria Jackson,maria.jackson@example.com,Returned,LENOVO THINKPAD X1,1,2023-10-24,1571,Computers,Paypal,Usa,1234.63,3,1,1234.63,1523.87,289.24
+2114,Maria Johnson,maria.johnson@example.com,Returned,DELL XPS 13,2,2023-03-23,1766,Computers,Bank Transfer,India,927.3,24,1,1854.6,2684.32,829.72
+2064,Maria Johnson,maria.johnson@example.com,Shipped,MACBOOK PRO,3,2023-07-07,769,Computers,Bank Transfer,India,348.25,17,1,1044.75,1914.81,870.06
+2025,Maria Robinson,maria.robinson@example.com,Pending,BOSE QC45,3,2023-10-03,489,Audio,Crypto,Spain,195.93,29,1,587.79,1041.57,453.78
+2116,Maria Robinson,maria.robinson@example.com,Refunded,IPAD AIR,2,2023-07-17,204,Tablets,Apple Pay,India,126.74,2,1,253.48,399.84,146.36
+2142,Maria Rodriguez,maria.rodriguez@example.com,Returned,IPAD AIR,3,2023-06-07,758,Tablets,Paypal,United Kingdom,465.0,11,1,1395.0,2023.86,628.86
+2045,Maria Smith,maria.smith@example.com,Delivered,MACBOOK PRO,3,2023-10-23,1864,Computers,Crypto,Spain,1044.37,2,1,3133.11,5480.16,2347.05
+2000,Maria Smith,maria.smith@example.com,Returned,SAMSUNG GALAXY S22,3,2023-09-16,,Electronics,Credit Card,Spain,121.62,7,1,364.86,,
+2096,Maria Thompson,maria.thompson@example.com,Refunded,GOOGLE PIXEL 8,2,2023-01-10,1654,Electronics,Debit Card,United Kingdom,665.07,2,1,1330.14,3241.84,1911.7
+2128,Maria Thompson,maria.thompson@example.com,Returned,MACBOOK PRO,3,2023-11-24,1719,Computers,Cash,Canada,820.42,19,1,2461.26,4177.17,1715.91
+2086,Mason Anderson,mason.anderson@example.com,Refunded,SONY WH-1000XM5,3,2023-05-27,1139,Audio,Crypto,United States,472.73,11,1,1418.19,3041.13,1622.94
+2129,Mason Brown,mason.brown@example.com,Pending,GOOGLE PIXEL 8,2,2023-06-18,113,Electronics,Bank Transfer,United Kingdom,79.27,30,1,158.54,158.2,-0.34
+2089,Mason Brown,mason.brown@example.com,Pending,SONY WH-1000XM5,1,2023-03-14,1956,Audio,Paypal,Canada,846.17,21,1,846.17,1545.24,699.07
+2178,Mason Garcia,mason.garcia@example.com,Delivered,MACBOOK PRO,1,2023-08-14,392,Computers,Crypto,Canada,252.5,5,1,252.5,372.4,119.9
+2043,Mason Garcia,mason.garcia@example.com,Shipped,SAMSUNG GALAXY S22,3,2023-04-21,344,Electronics,Apple Pay,Germany,232.57,6,1,697.71,970.08,272.37
+2175,Mason Johnson,mason.johnson@example.com,Delivered,IPHONE 14,2,2023-03-09,1003,Electronics,Paypal,Spain,572.83,22,1,1145.66,1564.68,419.02
+2126,Mason Martin,mason.martin@example.com,Returned,LENOVO THINKPAD X1,1,2023-04-01,,Computers,Cash,Usa,1214.37,13,1,1214.37,,
+2052,Mason Taylor,mason.taylor@example.com,Refunded,IPHONE 14,3,2023-09-13,1046,Electronics,Apple Pay,Spain,569.77,24,1,1709.31,2384.88,675.57
+2041,Mason Thomas,mason.thomas@example.com,Returned,SONY WH-1000XM5,1,2023-05-04,,Audio,Apple Pay,Germany,1482.09,2,1,1482.09,,
+2090,Mia Anderson,mia.anderson@example.com,Pending,IPAD AIR,3,2023-09-27,1765,Tablets,Crypto,United States,1374.66,21,1,4123.98,4183.05,59.07
+2148,Mia Brown,mia.brown@example.com,Returned,DELL XPS 13,1,2023-07-14,1438,Computers,Bank Transfer,Canada,593.42,12,1,593.42,1265.44,672.02
+2135,Mia Clark,mia.clark@example.com,Delivered,BOSE QC45,3,2023-04-25,342,Audio,Cash,Usa,209.15,23,1,627.45,790.02,162.57
+2007,Mia Clark,mia.clark@example.com,Delivered,IPHONE 14,1,2023-02-27,1496,Electronics,Apple Pay,United Kingdom,1058.33,10,1,1058.33,1346.4,288.07
+2005,Mia Harris,mia.harris@example.com,Returned,APPLE WATCH,2,2023-05-07,910,Wearables,Bank Transfer,Germany,416.01,4,1,832.02,1747.2,915.18
+2038,Mia Martinez,mia.martinez@example.com,Returned,DELL XPS 13,3,2023-01-22,1841,Computers,Bank Transfer,Canada,1322.74,18,1,3968.22,4528.86,560.64
+2094,Mia Robinson,mia.robinson@example.com,Delivered,MACBOOK PRO,1,2023-09-22,1413,Computers,Paypal,United States,1093.26,22,1,1093.26,1102.14,8.88
+2073,Mia Robinson,mia.robinson@example.com,Returned,SAMSUNG GALAXY S22,3,2023-10-08,1345,Electronics,Paypal,Germany,873.88,18,1,2621.64,3308.7,687.06
+2075,Mia Robinson,mia.robinson@example.com,Pending,SONY WH-1000XM5,2,2023-08-10,1506,Audio,Crypto,United States,1103.46,2,1,2206.92,2951.76,744.84
+2024,Mia Thompson,mia.thompson@example.com,Shipped,APPLE WATCH,2,2023-05-14,1491,Wearables,Bank Transfer,Us,1156.56,3,1,2313.12,2892.54,579.42
+2082,Mia White,mia.white@example.com,Returned,SAMSUNG GALAXY S22,1,2023-10-22,186,Electronics,Bank Transfer,Canada,80.19,10,1,80.19,167.4,87.21
+2026,Noah Garcia,noah.garcia@example.com,Returned,LENOVO THINKPAD X1,1,2023-07-26,1574,Computers,Paypal,Germany,1049.48,10,1,1049.48,1416.6,367.12
+2053,Noah Harris,noah.harris@example.com,Delivered,GOOGLE PIXEL 8,1,2023-10-10,1346,Electronics,Credit Card,Canada,705.71,0,1,705.71,1346.0,640.29
+2101,Noah Johnson,noah.johnson@example.com,Delivered,BOSE QC45,1,2023-12-02,1642,Audio,Paypal,Canada,1223.05,1,1,1223.05,1625.58,402.53
+2141,Noah Johnson,noah.johnson@example.com,Delivered,SAMSUNG GALAXY S22,3,2023-06-20,1583,Electronics,Credit Card,United Kingdom,765.47,29,1,2296.41,3371.79,1075.38
+2062,Noah Martinez,noah.martinez@example.com,Pending,APPLE WATCH,1,2023-10-17,704,Wearables,Cash,Spain,393.06,0,1,393.06,704.0,310.94
+2121,Noah Robinson,noah.robinson@example.com,Returned,IPHONE 14,3,2023-06-10,524,Electronics,Apple Pay,Us,309.87,12,1,929.61,1383.36,453.75
+2027,Noah Robinson,noah.robinson@example.com,Shipped,MACBOOK PRO,3,2023-10-24,,Computers,Crypto,Spain,479.25,13,1,1437.75,,
+2158,Noah Thomas,noah.thomas@example.com,Delivered,GOOGLE PIXEL 8,2,2023-07-29,997,Electronics,Apple Pay,Spain,426.38,27,1,852.76,1455.62,602.86
+2085,Noah Thomas,noah.thomas@example.com,Returned,MACBOOK PRO,1,2023-10-17,1111,Computers,Crypto,Spain,701.92,21,1,701.92,877.69,175.77
+2111,Olivia Anderson,olivia.anderson@example.com,Delivered,APPLE WATCH,3,2023-10-23,,Wearables,Crypto,United Kingdom,76.95,20,1,230.85,,
+2165,Olivia Garcia,olivia.garcia@example.com,Delivered,GOOGLE PIXEL 8,1,2023-06-30,741,Electronics,Bank Transfer,India,470.39,11,1,470.39,659.49,189.1
+2110,Olivia Thomas,olivia.thomas@example.com,Delivered,BOSE QC45,1,2023-06-05,613,Audio,Bank Transfer,Spain,312.5,20,1,312.5,490.4,177.9
+2167,Olivia Thomas,olivia.thomas@example.com,Returned,GOOGLE PIXEL 8,3,2023-09-16,119,Electronics,Apple Pay,Spain,65.88,17,1,197.64,296.31,98.67
+2080,Sarah Brown,sarah.brown@example.com,Returned,GOOGLE PIXEL 8,2,2023-12-14,1646,Electronics,Apple Pay,Spain,731.41,21,1,1462.82,2600.68,1137.86
+2104,Sarah Brown,sarah.brown@example.com,Shipped,MACBOOK PRO,2,2023-05-01,1838,Computers,Paypal,Spain,760.78,2,1,1521.56,3602.48,2080.92
+2016,Sarah Rodriguez,sarah.rodriguez@example.com,Returned,BOSE QC45,2,2023-10-19,240,Audio,Bank Transfer,Uk,118.58,3,1,237.16,465.6,228.44
+2120,Sarah Rodriguez,sarah.rodriguez@example.com,Delivered,IPAD AIR,1,2023-08-14,596,Tablets,Apple Pay,Canada,264.6,0,1,264.6,596.0,331.4
+2013,Sarah Taylor,sarah.taylor@example.com,Refunded,SAMSUNG GALAXY S22,2,2023-02-08,1198,Electronics,Cash,India,612.68,7,1,1225.36,2228.28,1002.92
+2003,Sarah White,sarah.white@example.com,Pending,SAMSUNG GALAXY S22,2,2023-05-17,1401,Electronics,Crypto,Germany,759.49,21,1,1518.98,2213.58,694.6
+2072,Sophia Clark,sophia.clark@example.com,Delivered,BOSE QC45,3,2023-08-23,188,Audio,Credit Card,Spain,124.75,9,1,374.25,513.24,138.99
+2040,Sophia Clark,sophia.clark@example.com,Delivered,DELL XPS 13,1,2023-12-09,671,Computers,Paypal,Canada,393.13,19,1,393.13,543.51,150.38
+2118,Sophia Clark,sophia.clark@example.com,Pending,LENOVO THINKPAD X1,2,2023-09-18,1362,Computers,Apple Pay,India,728.06,26,1,1456.12,2015.76,559.64
+2051,Sophia Garcia,sophia.garcia@example.com,Shipped,MACBOOK PRO,1,2023-01-19,1114,Computers,Credit Card,India,808.13,17,1,808.13,924.62,116.49
+2012,Sophia Jackson,sophia.jackson@example.com,Refunded,LENOVO THINKPAD X1,2,2023-08-05,1753,Computers,Apple Pay,Canada,1163.28,11,1,2326.56,3120.34,793.78
+2106,Sophia Martinez,sophia.martinez@example.com,Pending,GOOGLE PIXEL 8,3,2023-02-07,684,Electronics,Debit Card,India,328.37,4,1,985.11,1969.92,984.81
+2168,Sophia Robinson,sophia.robinson@example.com,Refunded,LENOVO THINKPAD X1,2,2023-08-23,698,Computers,Crypto,Spain,359.8,24,1,719.6,1060.96,341.36
+2036,Sophia Smith,sophia.smith@example.com,Delivered,DELL XPS 13,1,2023-11-15,182,Computers,Debit Card,Us,87.31,0,1,87.31,182.0,94.69
+2010,Sophia Thomas,sophia.thomas@example.com,Returned,DELL XPS 13,1,2023-07-11,1512,Computers,Bank Transfer,India,1206.67,20,1,1206.67,1209.6,2.93
+2123,Sophia Thompson,sophia.thompson@example.com,Shipped,SONY WH-1000XM5,3,2023-03-16,1485,Audio,Credit Card,United Kingdom,828.35,11,1,2485.05,3964.95,1479.9
